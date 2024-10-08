@@ -1,0 +1,60 @@
+{
+  "organization": [
+    {
+      "id": "1",
+      "name": "Tech Corp",
+      "employees": [
+        {
+          "id": 101,
+          "name": "John Smith",
+          "position": "CEO",
+          "subordinates": [
+            {
+              "id": 102,
+              "name": "Jane Doe",
+              "position": "CTO",
+              "subordinates": [
+                {
+                  "id": 103,
+                  "name": "Jim Brown",
+                  "position": "Senior Developer",
+                  "subordinates": []
+                },
+                {
+                  "id": 104,
+                  "name": "Jake Blues",
+                  "position": "Junior Developer",
+                  "subordinates": []
+                }
+              ]
+            },
+            {
+              "id": 105,
+              "name": "Sara Connor",
+              "position": "CFO",
+              "subordinates": [
+                {
+                  "id": 106,
+                  "name": "Kyle Reese",
+                  "position": "Account Manager",
+                  "subordinates": []
+                },
+                {
+                  "id": 107,
+                  "name": "John Smith ra",
+                  "position": "RA",
+                  "subordinates": []
+                }
+              ]
+            },
+            {
+              "id": 108,
+              "name": "New Bro",
+              "position": "New"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
