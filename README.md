@@ -30,7 +30,7 @@ This is a React application with a mock server for testing.
    npm run dev
    ```
 
-   The app will be available at `http://localhost:3000`.
+   The app will be available at `http://localhost:5173`.
 
 ## Additional Documentation
 
